@@ -1,0 +1,23 @@
+type: GenericCrafter
+name:"Завод питсы"
+description:"Завод еды"
+outputItem:pizza/1
+size:2
+hasPower:true
+hasItems:true
+craftTime:600
+updateEffect:steam
+itemCapacity:10
+consumes:{
+items:{items:[
+ov/2
+meat/2
+steak/1
+bread/1
+]}}
+requirements:[
+copper/120
+lead/40
+]
+category:crafting
+research:router

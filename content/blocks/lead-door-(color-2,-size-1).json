@@ -1,0 +1,1 @@
+{"type": "Door", "name": "Lead door (Color 2, size 1)", "description": "...", "health": 400, "size": 1, "requirements": [{"item": "graphite", "amount": 4}, {"item": "silicon", "amount": 2}, {"item": "lead", "amount": 4}], "research": "mechanical-drill", "category": "defense"}

@@ -1,0 +1,1 @@
+{"type": "MessageBlock", "name": "Message block 0 (Letter)", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "graphite", "amount": 5}], "research": "mechanical-drill", "category": "effect"}

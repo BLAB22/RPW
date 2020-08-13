@@ -1,0 +1,24 @@
+type: Separator
+name:"Майнер"
+description:"Требует большого количества энергии и воды для охлаждения."
+results:[
+cash/1
+scrap/49]
+size:2
+hasPower:true
+hasItems:true
+hasLiquids: true
+craftTime:60
+updateEffect:steam
+itemCapacity:10
+consumes:{
+power:2
+liquid:{
+liquid: water
+amount: 1}}
+requirements:[
+copper/60
+plastanium/80
+]
+category:crafting
+research:router

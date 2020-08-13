@@ -1,0 +1,9 @@
+name:"Бетонная стена"
+description:"Дешёвый блок. Отлично подходит для создания хрущевок."
+type:Wall
+health:400
+size:1
+requirements:[
+concrete/4
+]
+category:defense

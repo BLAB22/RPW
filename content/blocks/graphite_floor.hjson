@@ -1,0 +1,13 @@
+name:"Графитный пол"
+description:"Пол"
+type:Wall
+health:10
+size:1
+requirements:[
+graphite/3
+]
+placeableOn: true
+hasShadow: false
+alwaysReplace: true
+solid:false
+category: effect

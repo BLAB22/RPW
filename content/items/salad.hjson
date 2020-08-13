@@ -1,0 +1,8 @@
+type: resource
+name: "Салат"
+description: "Еда"
+color: "#00FF77"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 2

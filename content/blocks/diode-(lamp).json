@@ -1,0 +1,1 @@
+{"type": "LightBlock", "name": "Diode (Lamp)", "description": "...", "health": 40, "size": 1, "requirements": [{"item": "graphite", "amount": 4}, {"item": "silicon", "amount": 2}], "research": "mechanical-drill", "category": "effect", "brightness": 0.9, "radius": 25, "update": true, "configurable": true, "hasPower": true}

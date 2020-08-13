@@ -1,0 +1,10 @@
+name:"Растение"
+description:"Производит кислород."
+type:Wall
+health:40
+size:1
+requirements:[
+copper/40
+]
+hasShadow:false
+category:effect

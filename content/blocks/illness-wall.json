@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "Illness wall", "description": "...", "health": 10, "size": 1, "requirements": [{"item": "copper", "amount": 1}], "research": "mechanical-drill", "category": "defense", "destructible": true, "breakable": true}

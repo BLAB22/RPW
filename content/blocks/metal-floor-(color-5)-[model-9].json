@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "Metal floor (Color 5) [Model 9]", "description": "...", "requirements": [{"item": "copper", "amount": 1}], "health": 1, "size": 1, "solid": false, "placeableOn": true, "hasShadow": false, "alwaysReplace": true, "category": "effect"}

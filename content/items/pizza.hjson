@@ -1,0 +1,8 @@
+type: resource
+name: "Питса"
+description: "Еда"
+color: "#D5FF8B"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 2

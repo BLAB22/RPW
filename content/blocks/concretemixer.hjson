@@ -1,0 +1,24 @@
+type: GenericCrafter
+name:"Бетономешалка"
+description:"Производит бетон"
+outputItem:concrete/1
+size:2
+hasPower:true
+hasItems:true
+craftTime:60
+updateEffect:steam
+itemCapacity:20
+consumes:{
+items:{items:[
+sand/2
+]}
+liquid:{
+liquid:water
+amount: 0.25}}
+requirements:[
+copper/60
+metaglass/30
+graphite/20
+]
+category:crafting
+research: silicon-smelter

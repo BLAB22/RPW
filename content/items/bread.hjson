@@ -1,0 +1,8 @@
+type: resource
+name: "Булка"
+description: "Еда"
+color: "#D0D0D0"
+radioactivity: 0.0
+explosiveness:0.0
+flammability:0.0
+hardness: 2

@@ -1,0 +1,1 @@
+{"type": "Wall", "name": "Lead wall (Color 5, size 1)", "description": "...", "health": 320, "size": 1, "requirements": [{"item": "lead", "amount": 6}], "research": "mechanical-drill", "category": "defense", "destructible": true, "breakable": true}
